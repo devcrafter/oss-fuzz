@@ -8,6 +8,7 @@ auto_ccs:
  - "hq.zero.iq@gmail.com"
  - "milovidov@clickhouse.com"
  - "maksim@clickhouse.com"
+ - "igor@clickhouse.com"
 sanitizers:
  - address
  - memory
